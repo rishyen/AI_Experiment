@@ -1,1 +1,1 @@
-This Repository contain several Machine Learning, Deep Learning and advance Natural Language Projects
+This Repository contains several Machine Learning, Deep Learning, and advanced Natural Language Projects
